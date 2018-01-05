@@ -3,6 +3,12 @@ body {
   color: #000;
 }
 
+p {
+  color: white;
+  font-size: 20px;
+  font-family: Courier;
+}
+
 #user_input {
   background-color: #29594a;
   color: #fff;
