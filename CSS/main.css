@@ -1,0 +1,28 @@
+body {
+  background-color: #438c75;
+  color: #000;
+}
+
+#user_input {
+  background-color: #29594a;
+  color: #fff;
+  font-size: 24px;
+  font-family: Courier;
+  width: 600px;
+  height: 50px;
+  top:0;left:0;right:0;bottom:0;
+  position: absolute;
+  margin: auto;
+  text-align:center;
+  border: none;
+}
+#user_input:focus {
+  border: none;
+}
+#user_input::placeholder {
+    color: #fff;
+}
+div {
+  width: 100%;
+  height: 100%;
+}
